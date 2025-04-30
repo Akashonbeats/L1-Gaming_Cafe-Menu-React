@@ -3,7 +3,7 @@ const ListElement = ({Item, Price}) => {
     <>
     <li>
         <h3>{Item}</h3>
-        <h4>{Price}</h4>
+        <h4>₹{Price}</h4>
     </li>
     </>
   )
